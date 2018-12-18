@@ -72,7 +72,7 @@ public class QuestionOne{
     
     // TODO CHANGE FILE NAMES
     private static final String INPUT_FILE_NAME = "src\\question\\one\\DATA11.txt";
-    // C:\Users\aalexiev\Dev\Github\Contests\ECOO_2018\src\question\one\input.txt
+  
     private static final String OUTPUT_FILE_NAME = "src\\question\\one\\output.txt";
     
     private static boolean stdIn = false;
