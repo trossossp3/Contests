@@ -3,7 +3,11 @@ testcase 1
 4 2
 -4 -6
 0 -2
+Output:
+20000400000
 testcase 2
 2
 1 -1000
 -1 1000
+output:
+4901049000
